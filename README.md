@@ -23,8 +23,7 @@ Magictube (Chrome Extension Store Link): https://chrome.google.com/webstore/deta
 
 <h2> 🤳 Connect with me:</h2>
 LinkedIn: https://www.linkedin.com/in/meghm/
-<br/> <br/>
-
+<br/> 
 Instagram: https://www.instagram.com/meghm1007/
 
 
