@@ -15,7 +15,9 @@ India States Guessing Game:
 
  <br/> <br/>
 <h2>👨‍💻Publications:</h2>
-
+Video Games Development(Google Play Store Link): https://play.google.com/store/apps/developer?id=M.N.M <br/>
+PC Game (Itch.io Link): https://mnm-studios.itch.io/spacemaze <br/>
+Magictube (Chrome Extension Store Link): https://chrome.google.com/webstore/detail/magictube/edlnmpffjcnbkhjlfddcbildmafefhak?hl=en&authuser=0
 
 
 
