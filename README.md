@@ -6,7 +6,14 @@
 - 💬 Ask me about ... Python Programming, Game Development
 - 😄 Pronouns: ... He/Him
   
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻Projects:</h2>
+Tim Hortons Billing System: <br/>
+Sudoku Backtracking Algorithm: <br/>
+GUI TicTacToe Game: <br/>
+India States Guessing Game: <br/>
+
+ <br/> <br/>
+<h2>👨‍💻Publications:</h2>
 
 
 
