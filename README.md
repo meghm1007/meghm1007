@@ -7,10 +7,12 @@
 - 😄 Pronouns: ... He/Him
   
 <h2>👨‍💻Projects:</h2>
-Tim Hortons Billing System: <br/>
-Sudoku Backtracking Algorithm: <br/>
-GUI TicTacToe Game: <br/>
-India States Guessing Game: <br/>
+Tim Hortons Billing System: https://github.com/meghm1007/TimHortons_BillingSystem<br/>
+Sudoku Backtracking Algorithm: https://github.com/meghm1007/Sudoku_backtracking<br/>
+GUI TicTacToe Game: https://github.com/meghm1007/Python_TicTacToe<br/>
+Pomodoro Productivity: https://github.com/meghm1007/Python_Pomodoro
+Password Manager: https://github.com/meghm1007/python_password_manager
+India States Guessing Game: 
 
  <br/> <br/>
 <h2>👨‍💻Publications:</h2>
