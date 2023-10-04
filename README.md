@@ -6,7 +6,7 @@
 - 💬 Ask me about ... Python Programming, Game Development <br/> <br/>
   
 <h2>👨‍💻Projects:</h2>
-Covid Virus Mutation Machine Learning Predictions:https://github.com/meghm1007/Covid_RNA_ML_Model
+Covid Virus Mutation Machine Learning Predictions:https://github.com/meghm1007/Covid_RNA_ML_Model<br/>
 Tim Hortons Billing System: https://github.com/meghm1007/TimHortons_BillingSystem<br/>
 Sudoku Backtracking Algorithm: https://github.com/meghm1007/Sudoku_backtracking<br/>
 GUI TicTacToe Game: https://github.com/meghm1007/Python_TicTacToe<br/>
