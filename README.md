@@ -1,10 +1,10 @@
-<h1>Hi, I'm <br/><a href="https://www.linkedin.com/in/meghm/">Megh Nihir Mehta</a>, first-year Computer Science student at McMaster University, seeking summer 2024 Software Development Internships</h1>
+<h1>Hi, I'm <br/><a href="https://www.linkedin.com/in/meghm/">Megh Nihir Mehta</a>, second-year Computer Science student at McMaster University, seeking summer 2024 Software Development Internships</h1>
 
 - 😄 Pronouns: He/Him <br/>
-- 🔭 I’m currently working on ... A Computer Vision Ergonomics model in Python <br/>
-- 🌱 I’m currently learning ... Machine Learning, AI & Computer Vision, building chrome extensions using HTML, CSS, and JavaScript, and taking core Computer Science courses (Computational Thinking, Intro to Programming, Linear Algebra) at McMaster University <br/>
+- 🔭 I’m currently working on ... Meme Marketing platform for brands <br/>
+- 🌱 I’m currently learning ... AI Agents and Workflow Automation <br/>
 - 👯 I’m looking to collaborate on ... AI/ML, Computer Vision, or Chrome Extension projects <br/>
-- 💬 Ask me about ... Python Programming, AI/ML, Chrome Extensions, or Full-Stack Development <br/>
+- 💬 Ask me about ... AI, Chrome Extensions, SaaS, AI Agents and automations <br/>
 - ⚡ Fun fact: I play varsity squash and am an avid chess player! <br/> <br/>
 
 <h2>🛠️ Technical Skills</h2>
@@ -57,5 +57,4 @@ Currently working on a platform called Meme Marketing that lets companies and pe
 
 <h2>📫 Connect with Me</h2>
 <a href="https://www.linkedin.com/in/meghm/">LinkedIn</a> <br/>
-<a href="https://www.instagram.com/meghm1007/">Instagram</a> <br/>
 <a href="https://github.com/meghm1007">GitHub</a> <br/> <br/>
