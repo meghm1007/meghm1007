@@ -1,30 +1,61 @@
-<h1>Hi, I'm <br/><a href="https://www.linkedin.com/in/meghm/">Megh</a>, first year Computer Science student at McMaster University, seeking summer 2024 Software Development Internships</a></h1>
-- 😄 Pronouns: ... He/Him <br/>
+<h1>Hi, I'm <br/><a href="https://www.linkedin.com/in/meghm/">Megh Nihir Mehta</a>, first-year Computer Science student at McMaster University, seeking summer 2024 Software Development Internships</h1>
+
+- 😄 Pronouns: He/Him <br/>
 - 🔭 I’m currently working on ... A Computer Vision Ergonomics model in Python <br/>
-- 🌱 I’m currently learning ... Machine Learning, AI & Computer Vision, building chrome extensions using HTML, CSS, and JavaScript,vand taking core Computer Science courses (Computational Thinking, Intro to Programming, Linear Algrbra) at McMaster University <br/>
-- 👯 I’m looking to collaborate on ... AI/ ML/ Computer Vision Projects/ Chrome Extensions<br/>
-- 💬 Ask me about ... Python Programming, AI/ML, Chrome Extensions <br/> <br/>
-  
-<h2>👨‍💻Projects:</h2>
-Ergonomics Computer Vision Project: https://github.com/meghm1007/Ergonomics-Computer-Vision<br/>
-Tim Hortons Billing System: https://github.com/meghm1007/TimHortons_BillingSystem<br/>
-GUI TicTacToe Game: https://github.com/meghm1007/Python_TicTacToe<br/>
-Pomodoro Productivity: https://github.com/meghm1007/Python_Pomodoro <br/>
+- 🌱 I’m currently learning ... Machine Learning, AI & Computer Vision, building chrome extensions using HTML, CSS, and JavaScript, and taking core Computer Science courses (Computational Thinking, Intro to Programming, Linear Algebra) at McMaster University <br/>
+- 👯 I’m looking to collaborate on ... AI/ML, Computer Vision, or Chrome Extension projects <br/>
+- 💬 Ask me about ... Python Programming, AI/ML, Chrome Extensions, or Full-Stack Development <br/>
+- ⚡ Fun fact: I play varsity squash and am an avid chess player! <br/> <br/>
 
+<h2>🛠️ Technical Skills</h2>
+<b>Languages:</b> Python, C, C++, Java, TypeScript, JavaScript, HTML, CSS, SQL, PostgreSQL, Haskell <br/>
+<b>Frameworks:</b> React, Node.js, Vite, NextJS, TailwindCSS, FastAPI, REST API, Shadcn UI <br/>
+<b>Developer Tools:</b> GCP, VS Code, AWS, Firebase, Drizzle ORM, Git, GitHub, Chrome Extensions <br/>
+<b>Libraries:</b> TensorFlow, OpenCV, Mediapipe, Scikit-learn, Pandas, Keras, jQuery, Chart.js <br/> <br/>
 
- <br/> <br/>
-<h2>👨‍💻Publications:</h2>
-Video Games Development(Google Play Store Link): https://play.google.com/store/apps/developer?id=M.N.M <br/>
-PC Game (Itch.io Link): https://mnm-studios.itch.io/spacemaze <br/>
-Magictube (Chrome Extension Store Link): https://chrome.google.com/webstore/detail/magictube/edlnmpffjcnbkhjlfddcbildmafefhak?hl=en&authuser=0
+<h2>🚀 Projects</h2>
 
+Currently working on a platform called Meme Marketing that lets companies and personal brands create viral memes, short form content, etc. and grow their online network
 
+<b>Moon Trip AI</b> | <i>JavaScript, Vite, React, Firebase, TailwindCSS</i> <br/>
+- A full-stack web app that uses the Google Gemini API to plan trips in under 20 seconds. <br/>
+- Features: SEO optimization, AdSense integration, and 1.5k+ views with 100+ trips generated. <br/>
 
-<h2> 🤳 Connect with me:</h2>
-LinkedIn: https://www.linkedin.com/in/meghm/
-<br/> 
-Instagram: https://www.instagram.com/meghm1007/
+<b>Resume Roast</b> | <i>TypeScript, NextJS, NeonDB, PostgreSQL, Drizzle ORM</i> <br/>
+- A full-stack app for creating ATS-optimized resumes and cover letters using AI. <br/>
+- Features: Resume hosting, peer feedback ("roasting"), and authentication via Clerk. <br/>
 
+<b>Rotten World</b> | <i>Python, TensorFlow, Keras, Pandas, Streamlit</i> <br/>
+- A hackathon project that classifies rotten fruits using a machine learning model. <br/>
 
+<b>Promptify Chrome Extension</b> | <i>JavaScript, HTML, CSS, JSON</i> <br/>
+- A Chrome extension to store, categorize, and improve ChatGPT prompts. <br/>
+- 50+ active users. <br/>
 
+<h2>💼 Experience</h2>
 
+<b>Full Stack Developer</b> <br/>
+<i>Abate Fleet</i> | Toronto, ON | Sep. 2024 – Present <br/>
+- Redesigned the landing page using NextJS and TailwindCSS, optimizing for SEO and increasing conversions. <br/>
+- Integrated the Samsara API for real-time truck tracking and implemented Firebase functions for fuel stop tracking. <br/>
+- Automated flagging of suspicious transactions to detect fuel theft. <br/> <br/>
+
+<b>Software Engineer Intern</b> <br/>
+<i>Birlasoft</i> | Toronto, ON | May 2024 – Aug. 2024 <br/>
+- Developed a recommendation system for medical researchers using Python and ReactJS. <br/>
+- Built a tool using Google Gemini API and Streamlit to simplify complex statistical PPTs. <br/> <br/>
+
+<b>Coding Instructor</b> <br/>
+<i>Ultimate Coders</i> | Burlington, ON | Oct. 2023 – Feb. 2024 <br/>
+- Taught Python, Arduino, and Scratch to students aged 6–12. <br/>
+- Graded quizzes and created progress reports for 20+ students. <br/> <br/>
+
+<h2>📚 Education</h2>
+<b>McMaster University</b> <br/>
+- <i>Bachelor of Applied Science in Computer Science</i>, Minor in Statistics <br/>
+- Sep. 2023 – Apr. 2027 | Hamilton, ON <br/> <br/>
+
+<h2>📫 Connect with Me</h2>
+<a href="https://www.linkedin.com/in/meghm/">LinkedIn</a> <br/>
+<a href="https://www.instagram.com/meghm1007/">Instagram</a> <br/>
+<a href="https://github.com/meghm1007">GitHub</a> <br/> <br/>
