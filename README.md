@@ -1,4 +1,4 @@
-<h1>Hi, I'm <br/><a href="https://www.linkedin.com/in/meghm/">Megh Nihir Mehta</a>, second-year Computer Science student at McMaster University, seeking summer 2024 Software Development Internships</h1>
+<h1>Hi, I'm <br/><a href="https://www.linkedin.com/in/meghm/">Megh Nihir Mehta</a>, second-year Computer Science student at McMaster University, creating SaaS products and AI Agents</h1>
 
 - 😄 Pronouns: He/Him <br/>
 - 🔭 I’m currently working on ... Meme Marketing platform for brands <br/>
