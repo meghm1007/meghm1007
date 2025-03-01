@@ -1,10 +1,9 @@
 <h1>Hi, I'm <br/><a href="https://www.linkedin.com/in/meghm/">Megh Nihir Mehta</a>, second-year Computer Science student at McMaster University, creating SaaS products and AI Agents</h1>
 
 - 😄 Pronouns: He/Him <br/>
-- 🔭 I’m currently working on ... Meme Marketing platform for brands <br/>
-- 🌱 I’m currently learning ... AI Agents and Workflow Automation <br/>
-- 👯 I’m looking to collaborate on ... AI/ML, Computer Vision, or Chrome Extension projects <br/>
-- 💬 Ask me about ... AI, Chrome Extensions, SaaS, AI Agents and automations <br/>
+- 🔭 I’m currently building ... Meme Marketing platform that creates memes with AI and a lot more (launching 1st June), stay tuned for more <br/>
+- 🌱 I’m currently learning ... AI Agents x Blockchain<br/>
+- 👯 I’m looking to collaborate on ... SaaS products, AI Agents, Crypto <br/>
 - ⚡ Fun fact: I play varsity squash and am an avid chess player! <br/> <br/>
 
 <h2>🛠️ Technical Skills</h2>
@@ -16,6 +15,10 @@
 <h2>🚀 Projects</h2>
 
 Currently working on a platform called Meme Marketing that lets companies and personal brands create viral memes, short form content, etc. and grow their online network
+
+<i><b>MOST OF MY PROJECTS ARE PRIVATE🔏</b></i>
+
+Curious to learn about them🤔: <i>An AI Customer Support agent (with or without HITL), All my SaaS projects, Telegram AI Agent for an HR company, Social Persona projcets, much more</i>
 
 <b>Moon Trip AI</b> | <i>JavaScript, Vite, React, Firebase, TailwindCSS</i> <br/>
 - A full-stack web app that uses the Google Gemini API to plan trips in under 20 seconds. <br/>
