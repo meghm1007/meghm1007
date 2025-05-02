@@ -1,24 +1,17 @@
-<h1>Hi, I'm <br/><a href="https://www.linkedin.com/in/meghm/">Megh Nihir Mehta</a>, second-year Computer Science student at McMaster University, creating SaaS products and AI Agents</h1>
+<h1>hi, i'm <a href="https://www.linkedin.com/in/meghm/">megh</a></h1>
 
-- 😄 Pronouns: He/Him <br/>
-- 🔭 I’m currently building ... Meme Marketing platform that creates memes with AI and a lot more (launching 1st June), stay tuned for more <br/>
-- 🌱 I’m currently learning ... AI Agents x Blockchain<br/>
-- 👯 I’m looking to collaborate on ... SaaS products, AI Agents, Crypto <br/>
-- ⚡ Fun fact: I play varsity squash and am an avid chess player! <br/> <br/>
+i'm currently shipping cool stuff at Rosebud AI where i'm working as a software dev intern. i'm also building my own meme marketing software to create viral content with AI
 
 <h2>🛠️ Technical Skills</h2>
 <b>Languages:</b> Python, C, C++, Java, TypeScript, JavaScript, HTML, CSS, SQL, PostgreSQL, Haskell <br/>
 <b>Frameworks:</b> React, Node.js, Vite, NextJS, TailwindCSS, FastAPI, REST API, Shadcn UI <br/>
 <b>Developer Tools:</b> GCP, VS Code, AWS, Firebase, Drizzle ORM, Git, GitHub, Chrome Extensions <br/>
-<b>Libraries:</b> TensorFlow, OpenCV, Mediapipe, Scikit-learn, Pandas, Keras, jQuery, Chart.js <br/> <br/>
 
 <h2>🚀 Projects</h2>
 
-Currently working on a platform called Meme Marketing that lets companies and personal brands create viral memes, short form content, etc. and grow their online network
-
 <i><b>MOST OF MY PROJECTS ARE PRIVATE🔏</b></i>
 
-Curious to learn about them🤔: <i>An AI Customer Support agent (with or without HITL), All my SaaS projects, Telegram AI Agent for an HR company, Social Persona projcets, much more</i>
+Curious to learn about them🤔: <i>An AI Customer Support agent (with or without HITL), All my SaaS projects, Telegram AI Agent for an HR company, Social Persona projcets, and of course meme marketing</i>
 
 <b>Moon Trip AI</b> | <i>JavaScript, Vite, React, Firebase, TailwindCSS</i> <br/>
 - A full-stack web app that uses the Google Gemini API to plan trips in under 20 seconds. <br/>
@@ -37,8 +30,12 @@ Curious to learn about them🤔: <i>An AI Customer Support agent (with or withou
 
 <h2>💼 Experience</h2>
 
+<b>Software Eng. Intern</b> <br/>
+<i>Rosebud AI</i> | May 2025 – Present <br/>
+- working on chrome extensions, mcps and viral content<br/> <br/>
+
 <b>Full Stack Developer</b> <br/>
-<i>Abate Fleet</i> | Toronto, ON | Sep. 2024 – Present <br/>
+<i>Abate Fleet</i> | Toronto, ON | Sep. 2024 – March 2025 <br/>
 - Redesigned the landing page using NextJS and TailwindCSS, optimizing for SEO and increasing conversions. <br/>
 - Integrated the Samsara API for real-time truck tracking and implemented Firebase functions for fuel stop tracking. <br/>
 - Automated flagging of suspicious transactions to detect fuel theft. <br/> <br/>
